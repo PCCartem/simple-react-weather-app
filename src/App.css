@@ -1,0 +1,3 @@
+.weather h2:first-letter {
+  text-transform: uppercase;
+}
